@@ -1,1 +1,1 @@
-# First front-end project
+# Website to represent Vietnamese food's recipes
